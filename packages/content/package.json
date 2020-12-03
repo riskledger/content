@@ -14,10 +14,10 @@
   "dependencies": {
     "@lokidb/full-text-search": "^2.1.0",
     "@lokidb/loki": "^2.1.0",
-    "@nuxt/types": "^2.14.7",
+    "@nuxt/types": "^2.14.9",
     "@types/js-yaml": "^3.12.5",
     "@types/xml2js": "^0.4.7",
-    "change-case": "^4.1.1",
+    "change-case": "^4.1.2",
     "chokidar": "^3.4.3",
     "consola": "^2.15.0",
     "csvtojson": "^2.0.10",
